@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="infallible-meitner-12c430.netlify.app/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-br"
+                href="infallible-meitner-12c430.netlify.app/en-br/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="infallible-meitner-12c430.netlify.app/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-br"
+                href="infallible-meitner-12c430.netlify.app/en-br/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="infallible-meitner-12c430.netlify.app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-br"
+                href="infallible-meitner-12c430.netlify.app/en-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="infallible-meitner-12c430.netlify.app/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-br"
+                href="infallible-meitner-12c430.netlify.app/en-br/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="infallible-meitner-12c430.netlify.app/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-br"
+                href="infallible-meitner-12c430.netlify.app/en-br/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>infallible-meitner-12c430.netlify.app/en-br/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="infallible-meitner-12c430.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-br"
+                href="infallible-meitner-12c430.netlify.app/en-br/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -12,7 +12,7 @@ categories = [
     "golang",
 ]
 series = ["Getting Started", "Hugo"]
-featuredImage = "https://imgs.xkcd.com/comics/angular_momentum.jpg"
+featured_image = "https://imgs.xkcd.com/comics/angular_momentum.jpg"
 +++
 
 ## Step 1. Install Hugo

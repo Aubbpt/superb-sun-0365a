@@ -1,29 +1,25 @@
 +++
-title = "About Hugo"
+title = ""
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Actuellement chef de projet junior Informatique en alternance chez APRR, je suis travail au département des études et edition logiciel.
+Je participe à pluseurs projet groupe autour de différentes problématiques telles que la conduite au changement et l'évolution des méthodes de travail impactées par les nouvelles technologies. Je dirige également de nombreux projets de développement d'application et site intranet autour des technologies Office 365 (PowerApps / SharePoint).
+
+Je suis également un développeur averti, maîtrisant des technologies web / orientée objet / Docker...
 
 
-It makes use of a variety of open source projects including:
+### Mon expérience : 
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+### Mes compétences :
 
-## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
+### Mes atouts et hobbies :
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Pratique de l'alto au conservatoire de Dijon pendant 11ans 🎻
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Pratique de la guitare en auto-dictate depuis 15 ans et en MJC 🎸
 
-Thanks for reading!
+
+

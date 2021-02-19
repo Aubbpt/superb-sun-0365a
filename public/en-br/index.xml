@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AUBB</title>
+    <link>infallible-meitner-12c430.netlify.app/en-br/</link>
+    <description>Recent content on AUBB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="infallible-meitner-12c430.netlify.app/en-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>infallible-meitner-12c430.netlify.app/en-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>infallible-meitner-12c430.netlify.app/en-br/about/</guid>
+      <description>Currently junior IT project manager in work-study program at APRR, I work in the studies and software edition department. I participate in several group projects around different issues such as change management and the evolution of working methods impacted by new technologies. I also lead many application and intranet site development projects around Office 365 technologies (PowerApps / SharePoint).
+I am also an informed developer, mastering web / object-oriented / Docker technologies &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>infallible-meitner-12c430.netlify.app/en-br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>infallible-meitner-12c430.netlify.app/en-br/contact/</guid>
+      <description>Contactez-moi ! aubbpt@gmail.com
+Mes réseaux sociaux !  Linkedin  </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>infallible-meitner-12c430.netlify.app/en-br/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>infallible-meitner-12c430.netlify.app/en-br/cv/</guid>
+      <description>  2016 - 2018 : University Institute of Technology - DUT MMI
+  2018 - 2019 : University Institute of Technology - Pro DDIM License
+ Apprenticeship Developer - Studies and software edition - APRR    2019 - 2021 : CESI Training : Head of software engineering
+ Apprenticeship Developer / Junior Project Manager - Studies and software edition - APRR    </description>
+    </item>
+    
+  </channel>
+</rss>
